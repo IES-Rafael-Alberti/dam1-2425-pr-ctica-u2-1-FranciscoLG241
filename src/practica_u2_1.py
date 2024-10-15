@@ -200,7 +200,7 @@ def main():
     cont_compras = 0
     cont_ventas = 0
     saldo = 0
-    
+    linea = "> "
     
 
     while not encuentra_fin:
